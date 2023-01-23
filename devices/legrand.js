@@ -161,7 +161,7 @@ module.exports = [
     {
         zigbeeModel: [
             ' Remote switch\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000'],
-        model: '067773',
+        model: '067773/WNAL23/WNRL23',
         vendor: 'Legrand',
         // led blink RED when battery is low
         description: 'Wireless remote switch',
