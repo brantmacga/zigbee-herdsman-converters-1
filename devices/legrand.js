@@ -494,7 +494,7 @@ module.exports = [
     },
     {
         zigbeeModel: ['Remote dimmer switch'],
-        model: 'WNAL63',
+        model: 'WNAL63/WNRL63',
         vendor: 'Legrand',
         // led blink RED when battery is low
         description: 'Remote dimmer switch',
